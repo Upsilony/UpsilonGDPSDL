@@ -9,18 +9,5 @@
     "verification": "https://youtu.be/9mRDDAtBgGs",
     "percentToQualify": 53,
     "records": [
-        {
-            "user": "test",
-            "link": "https://youtu.be/CcQ3A7ROEAo",
-            "percent": 100,
-            "hz": "60",
-            "mobile": true
-        },
-        {
-            "user": "test2",
-            "link": "https://www.youtube.com/watch?v=0wOvPqaBauo",
-            "percent": 100,
-            "hz": "360"
-        }
     ]
 }
