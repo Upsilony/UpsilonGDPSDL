@@ -1,0 +1,17 @@
+[
+    {   
+        "name": "2025 Top 2",
+        "levels": [
+            "EXTNES",
+            "SilentStep"
+        ],
+        "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
+    },
+    {   
+        "name": "Top 1",
+        "levels": [
+            "EXTNES"
+        ],
+        "colour": "#ff0000"
+    }
+]

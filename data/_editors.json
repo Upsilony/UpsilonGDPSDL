@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "Upsilony",
+        "link": "https://www.youtube.com/@Upsilony_"
+    },
+    {
+        "role": "admin",
+        "name": "BlackFemgram",
+        "link": "https://www.youtube.com/@BlackFemgram"
+    },
+    {
+        "role": "helper",
+        "name": "Upsilony",
+        "link": "https://www.youtube.com/@Upsilony_"
+    },
+    {
+        "role": "trial",
+        "name": "BlackFemgram",
+        "link": "https://www.youtube.com/@BlackFemgram"
+    },
+    {
+        "role": "dev",
+        "name": "Upsilony",
+        "link": "https://www.youtube.com/@Upsilony_"
+    }
+]
