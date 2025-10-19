@@ -1,6 +1,6 @@
 [
     {   
-        "name": "2025 Top 2",
+        "name": "OG",
         "levels": [
             "EXTNES",
             "SilentStep"
@@ -10,6 +10,7 @@
     {   
         "name": "Top 1",
         "levels": [
+            "FGMachine",
             "EXTNES"
         ],
         "colour": "#ff0000"
