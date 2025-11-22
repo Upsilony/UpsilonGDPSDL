@@ -112,7 +112,7 @@ export default {
                     <div class="dark-bg" v-if="editors">
                     <br>
                     <div class="dark-bg">
-                    <h2>Guidelines</h2>
+                    <h2>FAQ</h2>
                     <br>
                     <p>Frequently Asked Questions for Demon List. If you visit this website for first time, please read this!</p>
                     <br><br>
