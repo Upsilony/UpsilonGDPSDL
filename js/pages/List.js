@@ -109,7 +109,6 @@ export default {
                     <br><br>
                     <a class="btngl" href="/extended-page/rules.html">Guidelines Page</a>
                     </div>
-                    <div class="dark-bg" v-if="editors">
                     <br>
                     <div class="dark-bg">
                     <h2>FAQ</h2>
