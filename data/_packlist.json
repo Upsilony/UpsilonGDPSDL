@@ -14,5 +14,13 @@
             "EXTNES"
         ],
         "colour": "#ff0000"
+    },
+   {   
+        "name": "Machine Pack",
+        "levels": [
+            "FGMachine",
+            "RM"
+        ],
+        "colour": "#C5C5C5"
     }
 ]
