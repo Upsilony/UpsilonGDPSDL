@@ -3,7 +3,8 @@
         "name": "OG",
         "levels": [
             "EXTNES",
-            "SilentStep"
+            "SilentStep",
+            "UW"
         ],
         "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
     },
