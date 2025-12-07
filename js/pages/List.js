@@ -110,14 +110,6 @@ export default {
                     <a class="btngl" href="/extended-page/rules.html">Guidelines Page</a>
                     </div>
                     <br>
-                    <div class="dark-bg">
-                    <h2>FAQ</h2>
-                    <br>
-                    <p>Frequently Asked Questions for Demon List. If you visit this website for first time, please read this!</p>
-                    <br><br>
-                    <a class="btngl" href="/extended-page/faq.html">FAQ Page</a>
-                    </div>
-                    <br>
                     <div class="dark-bg" v-if="editors">
                         <h3>List Staff:</h3>
                         <br>
