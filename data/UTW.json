@@ -3,18 +3,11 @@
     "name": "UTidal Wave",
     "author": "HXcreator",
     "creators": [],
-    "verifier": "HXcreator",
+    "verifier": "Upsilony",
     "difficulty": "Extreme Demon",
     "password": "Free Copy",
     "verification": "https://youtu.be/KEjnLxjh8uc",
     "percentToQualify": 45,
     "records": [
-        {
-            "user": "Upsilony",
-            "link": "https://youtu.be/KEjnLxjh8uc",
-            "percent": 100,
-            "hz": "120",
-            "mobile": true
-        }
     ]
 }
